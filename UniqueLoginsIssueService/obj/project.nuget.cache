@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sbNkskEsep9MfgANfcmJFjWNAdkh5R+x94GyZn/MPYEDrwk6lkbiieMKFVLPQVAKx7Qwwdx6HYnNorzo/LRqnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emily\\source\\repos\\PMHomework6Voronova\\UniqueLoginsIssueService\\UniqueLoginsIssueService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emily\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

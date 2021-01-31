@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iGrNnM1mWSfk8pv7R5/QsieXozoF9tyYUgKAap5zK+4flq3LtuuI+CH0S6peBsCY+Qp97JxsXi8R+AVYAy06RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emily\\source\\repos\\PMHomework6Voronova\\PrimesSearchWithThreads\\PrimesSearchWithThreads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emily\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

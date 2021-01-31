@@ -1,0 +1,16 @@
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\bin\Debug\netcoreapp3.1\PrimesSearchWithThreads.exe
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\bin\Debug\netcoreapp3.1\PrimesSearchWithThreads.deps.json
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\bin\Debug\netcoreapp3.1\PrimesSearchWithThreads.runtimeconfig.json
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\bin\Debug\netcoreapp3.1\PrimesSearchWithThreads.runtimeconfig.dev.json
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\bin\Debug\netcoreapp3.1\PrimesSearchWithThreads.dll
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\bin\Debug\netcoreapp3.1\PrimesSearchWithThreads.pdb
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\obj\Debug\netcoreapp3.1\PrimesSearchWithThreads.csprojAssemblyReference.cache
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\obj\Debug\netcoreapp3.1\PrimesSearchWithThreads.AssemblyInfoInputs.cache
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\obj\Debug\netcoreapp3.1\PrimesSearchWithThreads.AssemblyInfo.cs
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\obj\Debug\netcoreapp3.1\PrimesSearchWithThreads.csproj.CoreCompileInputs.cache
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\obj\Debug\netcoreapp3.1\PrimesSearchWithThreads.csproj.CopyComplete
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\obj\Debug\netcoreapp3.1\PrimesSearchWithThreads.dll
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\obj\Debug\netcoreapp3.1\PrimesSearchWithThreads.pdb
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\obj\Debug\netcoreapp3.1\PrimesSearchWithThreads.genruntimeconfig.cache
+C:\Users\Emily\source\repos\PMHomework6Voronova\PrimesSearchWithThreads\bin\Debug\netcoreapp3.1\settings.json

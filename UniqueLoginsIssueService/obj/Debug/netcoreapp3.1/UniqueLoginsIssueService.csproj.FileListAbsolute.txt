@@ -1,0 +1,16 @@
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\bin\Debug\netcoreapp3.1\UniqueLoginsIssueService.exe
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\bin\Debug\netcoreapp3.1\UniqueLoginsIssueService.deps.json
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\bin\Debug\netcoreapp3.1\UniqueLoginsIssueService.runtimeconfig.json
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\bin\Debug\netcoreapp3.1\UniqueLoginsIssueService.runtimeconfig.dev.json
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\bin\Debug\netcoreapp3.1\UniqueLoginsIssueService.dll
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\bin\Debug\netcoreapp3.1\UniqueLoginsIssueService.pdb
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\obj\Debug\netcoreapp3.1\UniqueLoginsIssueService.csprojAssemblyReference.cache
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\obj\Debug\netcoreapp3.1\UniqueLoginsIssueService.AssemblyInfoInputs.cache
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\obj\Debug\netcoreapp3.1\UniqueLoginsIssueService.AssemblyInfo.cs
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\obj\Debug\netcoreapp3.1\UniqueLoginsIssueService.csproj.CoreCompileInputs.cache
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\obj\Debug\netcoreapp3.1\UniqueLoginsIssueService.dll
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\obj\Debug\netcoreapp3.1\UniqueLoginsIssueService.pdb
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\obj\Debug\netcoreapp3.1\UniqueLoginsIssueService.genruntimeconfig.cache
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\bin\Debug\netcoreapp3.1\logins.csv
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emily\source\repos\PMHomework6Voronova\UniqueLoginsIssueService\obj\Debug\netcoreapp3.1\UniqueLoginsIssueService.csproj.CopyComplete
