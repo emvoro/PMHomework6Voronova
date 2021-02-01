@@ -33,10 +33,12 @@ namespace UniqueLoginsIssueService
                     var thread = new Thread(() =>
                     {
                         LoginClient loginClient = new LoginClient();
+
                         if (loginClient.LogIn(login.Login, login.Password) == null)
                             Interlocked.Increment(ref successful);
                         else 
                             Interlocked.Increment(ref failed);
+
                         countdownEvent.Signal();
                     });
                     thread.Start();

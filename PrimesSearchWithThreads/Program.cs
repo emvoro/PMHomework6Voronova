@@ -11,13 +11,6 @@ namespace PrimesSearchWithThreads
 {
     public class Program
     {
-        static bool IsPrime(int number)
-        {
-            if (number < 2)
-                return false;
-            return !Enumerable.Range(2, number).Any(x => x != number && number % x == 0);
-        }
-
         static ThreadSafeList<int> FindPrimes(int primesFrom, int primesTo, ThreadSafeList<int> primes)
         {
             if (primesFrom > primesTo)
@@ -26,12 +19,12 @@ namespace PrimesSearchWithThreads
                 primesTo = 1;
             }
                 
-            IEnumerable<int> sequence = Enumerable.Range(primesFrom, primesTo - primesFrom + 1);
+            IEnumerable<int> sequence = Enumerable.Range(primesFrom, primesTo - primesFrom + 1).
+                Where(x => x > 1 && Enumerable.Range(2, x - 2).All(y => x % y != 0));
 
             foreach (int number in sequence)
             {
-                if (IsPrime(number))
-                    primes.Add(number);
+                primes.Add(number);
             }
 
             return primes;
@@ -51,6 +44,7 @@ namespace PrimesSearchWithThreads
                 settings = JsonConvert.DeserializeObject<List<Settings>>(File.ReadAllText("settings.json"));
                 CountdownEvent countdownEvent = new CountdownEvent(settings.Count);
                 stopwatch.Start();
+
                 foreach (Settings setting in settings)
                 {
                     var thread = new Thread(() =>

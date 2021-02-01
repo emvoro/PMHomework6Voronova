@@ -1,11 +1,11 @@
 ﻿[
   {
     "primesFrom": -1,
-    "primesTo": 12
+    "primesTo": 120
   },
   {
     "primesFrom": 5,
-    "primesTo": 16
+    "primesTo": 160
   },
   {
     "primesFrom": 61,
